@@ -14,7 +14,7 @@
 ### Base packages
 
 ```
-$ yay -S i3-gaps i3status i3blocks betterlockscreen polybar rofi dunst nemo brightnessctl playerctl pamixer gnome-keyring polkit-gnome lxappearance kitty xfce4-settings flameshot nitrogen xorg-xbacklight xorg-xdpyinfo xdg-user-dirs-gtk jq network-manager-applet pavucontrol vlc xorg noto-fonts
+$ yay -S i3-gaps i3status i3blocks betterlockscreen polybar rofi dunst nemo brightnessctl playerctl pamixer gnome-keyring polkit-gnome picom lxappearance kitty xfce4-settings flameshot nitrogen xorg-xbacklight xorg-xdpyinfo xdg-user-dirs-gtk jq network-manager-applet pavucontrol vlc xorg noto-fonts
 ```
 
 ### audio & bluetooth
