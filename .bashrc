@@ -20,7 +20,6 @@ alias v="nvim"
 alias brb="sudo grub-mkconfig -o /boot/grub/grub.cfg"
 alias enable="sudo systemctl enable"
 alias disable="sudo systemctl disable"
-alias pi="sudo picom -b"
 
 # BEGIN_KITTY_SHELL_INTEGRATION
 if test -n "$KITTY_INSTALLATION_DIR" -a -e "$KITTY_INSTALLATION_DIR/shell-integration/bash/kitty.bash"; then source "$KITTY_INSTALLATION_DIR/shell-integration/bash/kitty.bash"; fi
