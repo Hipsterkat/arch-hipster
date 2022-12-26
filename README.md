@@ -17,7 +17,7 @@
 $ yay -S i3-gaps i3status i3blocks betterlockscreen polybar rofi dunst nemo brightnessctl playerctl pamixer gnome-keyring polkit-gnome lxappearance kitty xfce4-settings flameshot nitrogen xorg-xbacklight xorg-xdpyinfo xdg-user-dirs-gtk jq network-manager-applet pavucontrol vlc xorg noto-fonts
 ```
 
-### Set-up audio / bluetooth
+audio & bluetooth
 
 ```
 $ yay -S pipewire gst-plugin-pipewire libpipewire02 pipewire-alsa pipewire-jack pipewire-pulse wireplumber realtime-privileges alsa-utils alsa-tools bluez bluez-utils blueman xinput 
