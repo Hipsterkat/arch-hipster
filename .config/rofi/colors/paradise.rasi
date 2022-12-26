@@ -1,0 +1,15 @@
+/**
+ *
+ * Github : @Hipsterkat
+ * 
+ * Colors
+ **/
+
+* {
+    background:     #151515FF;
+    background-alt: #151515FF;
+    foreground:     #E8E3E3FF;
+    selected:       #B3B3B3FF;
+    active:         #AC8A8CFF;
+    urgent:         #282828FF;
+}
