@@ -3,7 +3,6 @@
 
 | info  | = |
 | ------------- | ------------- |
-| Distro | archlinux |
 | WM | i3-Gaps |
 | Font | Jetbrains Mono |
 | Terminal | Kitty |
@@ -20,7 +19,7 @@ $ yay -S i3-gaps i3status i3blocks betterlockscreen polybar rofi dunst nemo brig
 ### audio & bluetooth
 
 ```
-$ yay -S pipewire gst-plugin-pipewire libpipewire02 pipewire-alsa pipewire-jack pipewire-pulse wireplumber realtime-privileges alsa-utils alsa-tools bluez bluez-utils blueman xinput 
+$ yay -S pulseaudio pulseaudio-bluetooth realtime-privileges alsa-utils alsa-tools bluez bluez-utils blueman xinput 
 ```
 
 ### GTK theme: [Mountain](https://github.com/mountain-theme/Mountain/)            
